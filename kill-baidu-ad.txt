@@ -1,0 +1,67 @@
+! Title: 百度搜索结果极限净化
+! Description: 效果过于强大，慎用
+! Last Modified: 2019/1/29
+! Homepage:http://adgk.net
+! Version: 1.0
+tieba.baidu.com##div.footer-wrap
+tieba.baidu.com##div.top-guide-wrap
+tieba.baidu.com##div.father_cut_daoliu
+tieba.baidu.com##div.pb_cut_hot_recommend
+map.baidu.com###index-areaEntry-widget
+map.baidu.com##div.index-widget-guidebanner.styleguide.container
+zhidao.baidu.com##div.new-answer-entry.left-show
+zhidao.baidu.com###main-content > div.mm-content-box
+jingyan.baidu.com##div[class^="ui-slider"][style*="height"]
+baidu.com###feed-recommend
+baidu.com##.wgt-rel-exp.content-box
+baidu.com##.header-act-entry
+baidu.com##.new-answer-entry.left-show
+baidu.com$$div[class="bannerad"]
+baidu.com##footer > a[class="dl"]
+baidu.com$$div[class="feed-video-box"]
+baidu.com$$div[class="wgt-exp-video"]
+baidu.com###J-tashuo-button-fixed
+baidu.com##.wgt-related-questions
+baidu.com##.hint-ft-questionnaire
+baidu.com##.dynamicshareAdbox
+baidu.com##.welcome-banner
+baidu.com##.j_footer
+baidu.com###tab_news_1
+baidu.com##div.wa-guanfanghao-main
+baidu.com$$article[rl-link-data-sf-href="/sf/vsearch?pd"]
+baidu.com$$article[rl-link-data-sf-href="/sf?pd"]
+baidu.com$$article[rl-link-data-url="baijiahao"]
+baidu.com$$article[rl-link-data-sf-href="/sf?openapi"]
+baidu.com$$div[tpl="recommend_list"]
+baidu.com$$div[tpl="sigma_celebrity_rela"]
+baidu.com$$div[tpl="sd_imgs"]
+baidu.com$$div[tpl="zhaopin"]
+baidu.com$$div[tpl="movieticket"]
+baidu.com$$div[tpl="_recommend"]
+baidu.com$$div[tpl="vd"]
+baidu.com$$div[tpl="vc_ting"]
+baidu.com$$div[tpl="vid_pocket"]
+baidu.com$$div[tpl="nvl"]
+baidu.com$$div[tpl="enc"]
+baidu.com$$div[tpl="rel_ugc"]
+baidu.com$$div[tpl="quality_wenda"]
+baidu.com$$div[tpl="jy_exam"]
+baidu.com$$div[tpl="we_tiebanewxml"]
+baidu.com$$div[tpl="_app"]
+baidu.com$$div[tpl="app_"]
+baidu.com$$div[tpl="poi_kg"]
+baidu.com$$div[tpl="zp_sigma"]
+baidu.com$$div[tpl="zp_company"]
+baidu.com$$div[tpl="guanfanghao"]
+baidu.com$$div[tpl="music_multi"]
+baidu.com$$div[tpl="games"]
+baidu.com$$div[tpl="ks_"]
+baidu.com$$div[tpl="sp_"]
+baidu.com$$div[tpl="_demand"]
+baidu.com$$div[tpl="wenda_"]
+baidu.com$$div[tpl="_audio"]
+baidu.com$$div[tpl="comic"]
+baidu.com$$div[tpl="yl_"]
+baidu.com$$div[tpl="med_"]
+baidu.com$$div[tpl="wz_movielist"]
+baidu.com$$div[data-log="openapi"]
