@@ -4,6 +4,11 @@
 
 长期适配Android平台各大视频软件的去广告
 
+主规则cdn加速订阅地址
+`https://cdn.jsdelivr.net/gh/banbendalao/ADgk@latest/ADgk.txt`
+百度搜索结果内屏蔽百家号
+`https://cdn.jsdelivr.net/gh/banbendalao/ADgk@latest/kill-baidu-ad.txt`
+
 [个人博客](https://www.adgk.net)
 
 反馈交流群
