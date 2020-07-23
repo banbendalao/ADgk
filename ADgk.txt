@@ -7339,7 +7339,6 @@ ad.wx.com^
 var targetProtocol = "https:";
 window.location.href = targetProtocol +
 window.location.href.substring(window.location.protocol.length);
-</script>
 ||www.xhgszy.com/1.gif
 ||c.mp.qq.com/api/union^
 ||tjjs.km.com^
@@ -7431,7 +7430,6 @@ tieba.baidu.com$$div[class="pb_prompt_"]
 ||tongjiwo.com^
 ||m.mxguan.com^
 ||h.jcqtb.cn^
-$@$div[class="read"]
 baike.baidu.com$$div[class="s-items J-items"]
 baike.baidu.com$$div[class="relative-shop-"]
 ||s.hoverming.cn^
@@ -8476,10 +8474,8 @@ _showad*
 ||m.haxdu.com/hi18^
 ||m.fengyunok.com/js/ajax.js
 tieba.baidu.com$$img[class="fixed_bar_"]
-(function() {
 var s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(hm, s);
-})();
 ||h5.ssp.qq.com/static/web/websites/
 ||vip.catcs.cn^
 ||d.feih.com.cn^
@@ -10544,7 +10540,6 @@ _xiuno_com_ad/
 ##a[href^="https://hi.potvpn.com/?from="]
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
-##body .has-ad
 ##body[class|="view"] > .ad-box
 ##body[onload*="u()"] > #x
 ##div#ad_id
@@ -21247,7 +21242,6 @@ btbt.tv#@#.google-ad
 apk.tw#@#.google_ad
 adbug.cn#@#.google_ads
 mobile01.com#@#.googlead
-#@#.has-ad
 wangzheli.com#@#.headad
 popo.tw#@#.header_ad
 hbee.edu.cn#@#.headerad
