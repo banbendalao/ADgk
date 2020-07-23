@@ -1,6 +1,7 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+baidu.com$$div[class="ec_wise_ad"]
 ||avgle.com/images.php
 ||allmygoodlife.com^
 ||olmsoneenh.info^
@@ -6207,7 +6208,6 @@ play.baidu.com###m-client-product,#right-ads,div.rightAd-skin,.top-banner-ad-wra
 ||adserver.
 ||changyan.$subdocument
 @@||g.tbcdn.cn/
-||gg.
 ||ggg.
 ||000dn.com/
 ||1234xm.com/
@@ -21596,7 +21596,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||gaus.ee^$generichide
 @@||geekbang.org/resource/image/ad/14/addb521e20de1a302206f4286eac3914.png
-@@||gg.wudizuqiu.com/72nba.js
 @@||gg.yxdown.com/count/countzt.js
 @@||ggg50.pw^$generichide
 @@||github.io/videojs-ima/node_modules/video.$domain=setn.com^
