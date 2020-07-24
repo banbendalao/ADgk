@@ -1,6 +1,7 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||m-vali.cp31.ott.cibntv.net*.mp4
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||olmsoneenh.info^$domain=avgle.com
 $third-party,domain=biquge001.com|shuquge.com|biqu.ge|xbiquge.la|biquw.com|biquge5200.cc|yuanzunxs.cc|biqubao.com|biquge.tv|12zw.com|biqugle.com|32xs.org|biqugeg.com|biqugedu.com|xswang.com|biquduge.com|gebiqu.com|xshengyan.com|bbiqugew.com|biquges.com|xsbiquge.com|ibqg5200.com|biquge.info|biquwu.cc|biquger.com|mybooks8.com|zzbiquge.com|3xs.cc|biquge123.com|yiyi120.com|zuimeng8.com|biquga.com|hehuamei.com|biquku.la|biqug.org|biqugewx.com
@@ -186,7 +187,6 @@ xuehuayu.cn$$h3[id="红包"]
 ||t7z.cupid.ptqy.gitv.tv^
 ||ykad-gateway.youku.com^
 ||vali.cp31.ott.cibntv.net^$media,mp4
-||m-vali.cp31.ott.cibntv.net^$media,mp4
 ||vali.cp12.wasu.tv^
 linuxbaike.com$$div[class="celan"]
 linuxbaike.com$$div[class="fadacai"]
