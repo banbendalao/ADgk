@@ -1,6 +1,12 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||events.gfe.nvidia.com^
+||sgbbc.cn^
+||shgansheng.cn^
+||pangolin.snssdk.com^
+||adim.pinduoduo.com^
+||vali-g1.cp31.ott.cibntv.net*.mp4
 ||jscode.jbzj.com^
 ||jsjs.jbzj.com^
 ||m-vali.cp31.ott.cibntv.net*.mp4
@@ -102,7 +108,6 @@ zhujiwiki.com$$div[class="asb-post-footer"]
 @@||vd.l.qq.com^
 ||l.qq.com^
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
-||vali-g1.cp31.ott.cibntv.net^$mp4
 ||fast8.com/skin/default/images/63065.png
 ||duomai.com^
 ||path.qidian.com^
@@ -281,7 +286,6 @@ m.baidu.com,www.baidu.com##A[class='hint-qnaire-bar']
 ||zhihu.m.$popup
 ||114so.cn^
 ||eiv.baidu.com^
-||cdn-adn.rayjump.com/cdn-adn/*.mp4$app=com.naga.kun,mp4
 ||atm.youku.com^
 app.bilibili.com##[id^="ad_info"]
 ||m.iqiyipic.com/common/lego/*.jpg$app=com.qiyi.video
@@ -5989,7 +5993,6 @@ book.qidian.com##A.jumpWrap,DIV.crumbs-nav,DIV.left-game,DIV.games-op-wrap,DIV.r
 ||yb6.me^$app=com.xxx.svideo
 ||x.heyzap.com/_/0/ad$app=com.iwantavnow
 ||events3.adccache.cn/t/5.0^$app=com.iwantavnow
-||cdn-adn.rayjump.com/cdn-adn/v2^$app=com.iwantavnow
 ||wd.adcolony.com^$app=com.iwantavnow
 ||game.9xzj.com^$third-party
 ||sc.shayugg.com/esolc.png$domain=m.biquge.com.tw
@@ -6483,7 +6486,6 @@ m.bilibili.com##DIV.index__container__src-commonComponent-bottomOpenApp-
 ||ningmengnm.cn^
 ||42.51.8.24^
 ||58mingri.cn^
-@@||net.rayjump.com/openapi/ad^$app=com.naga.kun
 ||uniplayad.com^
 ||yousuode.cn^
 ||static-tapad.tapdb.net^
@@ -6566,7 +6568,6 @@ tieba.baidu.com##frs-tuijian,tl_gap,p_article,p_hot,p_show,s_post.post_user,p_me
 ||alimama.com^
 ||ipinyou.com^
 ||mct01.com^
-||simba.taobao.com^
 ||wrating.com^
 ||rdtuijian.com^
 ||mobad.ijinshan.com^
@@ -21523,7 +21524,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||shopback.com.tw^$generichide
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com^
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com^
-@@||simba.taobao.com/?name=mcad$script
 @@||sina.com.cn/litong/*/close
 @@||sina.com.hk^*_ads.cgi
 @@||sinaimg.cn/ad/adimage/50x50_
@@ -24654,7 +24654,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn^
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com^
-@@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com^
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com^
 @@||sogou.com/pv.gif?*&stype=showskinpanel
 @@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.tv
