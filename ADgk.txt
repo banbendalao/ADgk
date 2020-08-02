@@ -1,6 +1,7 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||ping.*.sogou.com^
 ||mosflower.cn^
 ||oycslia.xyz^
 ||nouzhu.cn^
@@ -9,6 +10,7 @@
 ||events.gfe.nvidia.com^
 ||sgbbc.cn^
 ||shgansheng.cn^
+||inte.sogou.com^
 ||pangolin.snssdk.com^
 ||adim.pinduoduo.com^
 ||vali-g1.cp31.ott.cibntv.net*.mp4
@@ -128,8 +130,6 @@ zhujiwiki.com$$div[class="asb-post-footer"]
 ||adsbro.com^
 ||chlbiz.com^
 ||zhilingshidai.com^
-||ping.acc.sogou.com^
-||ping.pinyin.sogou.com^
 ||worldwide.sogou.com^
 ||api.pinyin.sogou.com/v1/bubble/ad
 ||bjs.mscto.com^
@@ -6579,7 +6579,6 @@ wxsnsdy.tc.qq.com^
 wxsnsdy.video.qq.com^
 ||tatagou.com.cn^
 ||mix.sina.com.cn^
-inte.sogou.com^
 ||epro.sogou.com^
 ||golden1.sogou.com^
 ||uranus.sogou.com^
@@ -11193,7 +11192,6 @@ _xiuno_com_ad/
 ||index8.cn^$third-party
 ||inpetusgames.com^
 ||insuf.cn^
-||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com^
 ||intentarget.com^$third-party
 ||iomsew.com^
 ||ipaypay.cn^$third-party
@@ -24801,7 +24799,6 @@ QURna+inhOWImQ==
 ||znlgplt.com^
 /AdBanner
 ||tdum.alibaba.com/dss.js
-||ynuf.aliapp.org^
 ||api.midukanshu.com/config/getReaderSource
 ||apiwz.midukanshu.com^
 ||moshouba.top^
