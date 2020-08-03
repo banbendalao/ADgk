@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||tracklog.58.com^
+||moji.com/ad^
 ||ping.*.sogou.com^
 ||mosflower.cn^
 ||oycslia.xyz^
@@ -8594,7 +8596,6 @@ $$span[class="dmcenterb"]
 ||imtmp.net^
 ||szlong.weixin.qq.com^
 ||market.m.qq.com^
-||mojichina.com^
 ||easytomessage.com^
 ||csi.gstatic.com^
 ||adlaunch.moji.com^
@@ -24666,7 +24667,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||tianxun.com/min/f=
 @@||ting56.com/css/tongji.js
 @@||tmall.com/add?
-@@||tracklog.58.com/referrer$~third-party
 @@||udn.com/mall/images/spacer.gif?
 @@||viu.com/ott/*/js/tracking/
 @@||wl.jd.com/wl.js
