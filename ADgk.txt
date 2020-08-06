@@ -1,6 +1,10 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||ladymetro.com^
+||ejfeng.com^
+||5j5k.com^
+||kdh8.com^
 ||tracklog.58.com^
 ||moji.com/ad^
 ||ping.*.sogou.com^
