@@ -155,7 +155,6 @@ zhujiwiki.com$$div[class="asb-post-footer"]
 ||miqiks.com^
 ||whsbpw.cn^
 ohmanhua.com$$script[tag-content="undefined"]
-||dyn.ithome.com^
 ||reader.sh.vip.qq.com^
 ||ahrefa.com^
 ||app.market.xiaomi.com/apm/search?$replace=/searchTopAdApp//
