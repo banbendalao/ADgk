@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+/vlive.qqvideo.tc.qq.com*.mp4
+/variety.tc.qq.com^*.mp4
 ||ladymetro.com^
 ||ejfeng.com^
 ||5j5k.com^
@@ -8820,7 +8822,6 @@ m.sogo.com##div.tab-info-fixed.index-show-tab
 ||m.geilimei.cc/foot.js
 ||y.gtimg.cn/music/photo/config/qmapiurljson.txt
 ||bsrv.qq.com^
-/variety.tc.qq.com^$media
 ||nadvideo.baidu.com^
 ||static.52zzyx.com^
 ||pg-ad-b1.ws.126.net^
@@ -9231,7 +9232,6 @@ piao.js|
 /template/23ttav/js/aa.htm
 ||bdstatic.com/common^
 ||hpd.baidu.com^
-/vlive.qqvideo.tc.qq.com^$media
 ||baidu.com^$app=com.tencent.qqlive
 $$ins[class="adsbygoogle"]
 ||stat.lizhi.fm^p=com.tencent.qqlive
@@ -21336,18 +21336,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||github.io/videojs-ima/node_modules/video.$domain=setn.com^
 @@||golangnote.com^$generichide
 @@||gomein.net.cn^*,
-@@||google.com/translate_$media,third-party,xmlhttprequest
-@@||google.de/translate_$media,third-party,xmlhttprequest
-@@||google.es/translate_$media,third-party,xmlhttprequest
-@@||google.fr/translate_$media,third-party,xmlhttprequest
-@@||google.it/translate_$media,third-party,xmlhttprequest
-@@||google.pl/translate_$media,third-party,xmlhttprequest
-@@||google.pn/translate_$media,third-party,xmlhttprequest
-@@||google.ps/translate_$media,third-party,xmlhttprequest
-@@||google.rs/translate_$media,third-party,xmlhttprequest
-@@||google.ru/translate_$media,third-party,xmlhttprequest
-@@||google.sn/translate_$media,third-party,xmlhttprequest
-@@||google.so/translate_$media,third-party,xmlhttprequest
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com^
 @@||gooogle.how^$generichide
