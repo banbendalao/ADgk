@@ -1,4 +1,4 @@
-# 禁止一切形式的商业用途
+# 禁止一切形式的商业使用
 #### 介绍
 适用于AdGuard for Android的去广告规则，不保证在其他软件使用的效果
 
@@ -20,15 +20,7 @@
 
 反馈交流群
 
-QQ:875865300
+QQ群①:875865300
+QQ群②:723295076
 
-TG:https://t.me/ADgk_list
-
-#### adgk dns
-如果您不喜欢使用adguard等软件，可以尝试使用adgk dns
-##### 目前adgk dns为实验性质，并不能保证其稳定性
-dns over https:  
-https://dns.adgk.net:4433/dns-query
-
-dns over tls:  
-tls://dns.adgk.net
+TG群:https://t.me/ADgk_list
