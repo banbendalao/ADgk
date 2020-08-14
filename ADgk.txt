@@ -1,6 +1,10 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+/\/ad\d*\./$script
+||qhcksjb.com/static/js/lunbo.js
+||jingteinv.com^
+||yangniupiju.com^
 zhenbuka.com$$a[href="ybvip1879.vip"]
 ||jdw2394.cn^
 ||zpxw.vip^
@@ -8317,7 +8321,6 @@ m.baidi.com,www.baidu.com##DIV[class='voice call']
 ||tapjoyvod.8686c.com^
 ||feb.hdingkun.com^
 ^adv^
-^ads^
 ||www.loldyttw.net^
 ||loldyttw.com^
 ||www.besthuaxia.com^
