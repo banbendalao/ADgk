@@ -1,6 +1,7 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+/ssads.js
 ||kkkkwu.com/js/fumeiti.js
 /tongji.js
 ||kkkkwu.com/js/20X4.js
@@ -185,7 +186,6 @@ zhujiwiki.com$$div[class="asb-post-footer"]
 ||dlswzw.cn^
 ||miqiks.com^
 ||whsbpw.cn^
-ohmanhua.com$$script[tag-content="undefined"]
 ||reader.sh.vip.qq.com^
 ||ahrefa.com^
 ||app.market.xiaomi.com/apm/search?$replace=/searchTopAdApp//
@@ -10066,7 +10066,6 @@ _xiuno_com_ad/
 ##.full-ads
 ##.full.banners12
 ##.getads
-##.gg1000
 ##.gg430
 ##.gg_300
 ##.gg_728
