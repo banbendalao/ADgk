@@ -1,10 +1,10 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+/js/20X4.js
+/js/fumeiti.js
 /ssads.js
-||kkkkwu.com/js/fumeiti.js
 /tongji.js
-||kkkkwu.com/js/20X4.js
 ||c.mipcdn.com/c/s/by.manhuachi.com/mhbei0819.js
 ||c.mipcdn.com/c/s/m.manhuabei.com/assets/xiwang.js
 ||56fba.cn^
@@ -4707,7 +4707,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.hao123img.com/static/html5-index/js/
 ||m.kewaishu.info/cfjs/$script
 ||m.kewaishu.info/uni/$script
-||m.kkkkmao.com/js/$script
 ||m.laonanren.com/js/$script
 ||m.migu5.com/js/fumeiti.js
 ||m.piaov.com/js/html.js
@@ -7600,7 +7599,6 @@ _ad&callback=
 /stat.asp
 /sygygg/*
 /third*cookie/*
-/time.
 /tj.js*
 /TJ/*.aspx?id=
 /tj_
@@ -14472,10 +14470,6 @@ _yad_jsonp_
 ||kikinote.net/iframe
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwsy.co/hotsearch_box.php
-||kkkkmao.com/js/20X4.js
-||kkkkmao.com/js/fumeiti.js
-||kkkkmao.com/js/tongji.js
-||kkkkmao.com/Runtime/js/
 ||klandmart.com/K-Landmart_0011.jpg
 ||kmplayer.cn/include/jscript/*-a.js
 ||knnwdyou.com^
