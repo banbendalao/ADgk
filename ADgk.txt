@@ -7347,7 +7347,6 @@ _good_id=
 /960x90.
 /300x250.
 /shouji.js*
-/all.js|
 /skin/know/*
 /mgkojt.
 /show/count.
