@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+vikacg.com$$a[href="asnebula.xyz"]
+||brandadsstatic.vivo.com.cn^
 ||leads.api.autohome.com.cn^
 ||adsfs-sdkconfig.heytapimage.com^
 ||leads.autohome.com.cn^
@@ -24762,7 +24764,6 @@ _1xhtml?|
 yse1234.com/template/phone/imagess/sdfwe.js
 ||xn--$third-party
 ||imdns.hpplay.cn^
-||hinet.net^
 ||abie14.top^
 ||adashx.m.taobao.com^
 ||e.kuaishou.com^
