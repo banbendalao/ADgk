@@ -1,6 +1,12 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||leads.api.autohome.com.cn^
+||adsfs-sdkconfig.heytapimage.com^
+||leads.autohome.com.cn^
+vikacg.com$$a[onclick="trackOutboundLink"]
+||simengadx.com^
+||audioadx.com^
 ||umsns.com^
 /ad_video_report
 /video_ad_iframe
@@ -24811,3 +24817,8 @@ $$p[class="ReadAd"]
 ||adstats.
 $$div[class="ad_bottom"]
 $$div[class="ad_top"]
+||hl.cn^
+||zhangyumo.top^
+||mmszxc.top^
+||yehuitudu.cn^
+||go.sohu.com^
