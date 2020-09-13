@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||dcapi.365kqzs.cn^
+||api.simpleruning.cn/api/adserving^
 ||xxdongfa.com^
 ||bdfirst.cn^
 ||imyqb.cn^
