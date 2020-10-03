@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||app.market.xiaomi.com/apm/zone/myPage
+||app.market.xiaomi.com/apm/floaticonV2?$replace=/adsTagId//
 /17mb/script/wap.js|
 ||dmswhw.cn^
 ||iouqxvr.cn^
@@ -373,7 +375,6 @@ zhidao.baidu.com,www.baidu.com##DIV#wgt-related-questions
 zhidao.baidu.com,www.baidu.com##UL[class='feed-recommend-list']
 zhidao.baidu.com,www.baidu.com##DIV[class='new-answer-entry left-show']
 www.baidu.com$@$div[class="ad_"]
-||app.market.xiaomi.com/apm/zone/myPage
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
 zhidao.baidu.com,www.baidu.com##FOOTER#respect-footer
 tieba.baidu.com$$a[class="ti_item j_click_stats"]
@@ -24759,7 +24760,6 @@ QURna+inhOWImQ==
 ||amghrrz.cn^
 ||sgcmoeu.cn^
 ||app.market.xiaomi.com/apm/recommend/downloadmanagerV2?
-||app.market.xiaomi.com/apm/floaticonV2?
 ||app.market.xiaomi.com/apm/recommend/upgradepage?
 ||app.market.xiaomi.com/apm/recommend/relatedapps?
 ||r.browser.miui.com^
