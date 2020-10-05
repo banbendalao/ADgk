@@ -1,6 +1,13 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||yb450.app^
+||nfmovies.com/static^
+||nfmovies.com^$replace=/adsTime = 15/adsTime = 1/
+||nfmovies.com/pic/tu^
+||www.naifei.shop^$third-party
+||nfmovies.com/playg$empty
+||jx.nfmovies.com/?downloadprohibited
 ||app.market.xiaomi.com/apm/zone/myPage
 ||app.market.xiaomi.com/apm/floaticonV2?$replace=/adsTagId//
 /17mb/script/wap.js|
@@ -24677,7 +24684,6 @@ xdean.cc##div.widget.widget_media_image
 ||rtbapi.douyucdn.cn^
 ||mi1.cc^
 ||56yk.com^
-||nfmovies.com/pic/tu^
 ||man7777.com^
 /advertising^
 ||api.zhuti.xiaomi.com/app/v9/uipages$replace=/adInfo//
