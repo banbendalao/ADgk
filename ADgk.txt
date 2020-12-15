@@ -1,6 +1,22 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||log-upload.mihoyo.com^
+sex8.cc$$div[class="sign"]
+||kongjiiee.info^
+sex8.cc$$a[href="id=s8_app"]
+sex8.cc$$a[href="&ad="]
+||sex8.cc/content.php
+sex8.cc$$div[class="downloadApp"]
+||yh21kk.com^
+||luntanx18.info^
+||sex8.cc/static/js/antiblock.js
+||sex8.cc/dasp.php
+sex8.cc$$div[class="wapAbcd"]
+||xb588.net^
+||6665kkk.com/ggvip^
+||mobile.yiban.cn/api/v3/home/launchad?
+||alog.umengcloud.com^
 bububu.live$$div[class="overdiv"]
 ||5551650.com^
 bububu.live$$a[href="advslog.php"]
@@ -20,7 +36,6 @@ bububu.live$$a[href="advslog.php"]
 ||weibointl.api.weibo.cn/portal.php?*ad*get_coopen_ads
 ||ar.umeng.com^
 ||dns.weibo.cn^
-||umengcloud.com^
 ||api.weibo.cn/2/short_url/expand?
 ||adclick.tencentmusic.com^
 ||ssp.tencentmusic.com^
@@ -6457,7 +6472,6 @@ youku.com##.right-sidepopup,div[id^=ab_v_],li.js-draw,#yk-player-curtain
 ||materials.ydlmgg.com^$app=com.biquge.ebook.app
 ||api.ttydgg.com/v1/developer^$app=com.biquge.ebook.app
 ||update.pigqq.com/v5^$app=com.biquge.ebook.app
-||alog.umengcloud.com/app_logs$app=com.biquge.ebook.app
 ||sdk.duihuashijie.com^
 ||html.yanqian.org/code^
 ||ydyxtg.tttxf.com^$app=com.biquge.ebook.app
@@ -7647,7 +7661,6 @@ _ad&callback=
 *duilian*
 *flag=0&ad=
 *flag=1&ad=
-*guanggao
 *left_ad*
 *right_ad*
 ||pc.min.js*
@@ -8647,8 +8660,6 @@ $$span[class="dmcenterb"]
 ||tg.zhan97.com^
 ||tg.tebiezhuan.com^
 ||p.yjunzi.com^
-||umengcloud.
-||jpush.
 ||gdt.qq.com^
 ||imtmp.net^
 ||szlong.weixin.qq.com^
