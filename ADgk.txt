@@ -1,6 +1,33 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||diyibanzhu*/js/cdn.js
+||epukult.cn^
+||aodepuo.cn^
+||input.shouji.sogou.com/SogouServlet?cmd=expPkgAd
+||sis.jpush.io^
+||s.jpush.cn^
+||999xs.com/js/999xs.js
+||mavuz.com^
+||wzjs.cdn.bcebos.com^
+||ah808.com^
+||ildhy.com^
+||baichuan-sdk.alicdn.com^
+||dg.k.jd.com^
+||mapi.m.jd.com/ksdk/updlist.json^
+||log.mmstat.com^
+||cms-image.cdn.bcebos.com^
+||c.tieba.baidu.com/c/s^
+||log.tpns.tencent.com^
+||log.tbs.qq.com^
+||tsis.jpush.cn^
+||bjuser.jpush.cn^
+||pingjs.qq.com^
+||logconf.iflytek.com^
+||msg.umengcloud.com^
+||ulogs.umengcloud.com^
+*-stats.jpush.cn^
+||stats.jpush.cn^
 ||tyhjwjg.cn^
 ||aoyou4.top^
 ||vkpsmzj.cn^
@@ -24700,7 +24727,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||omtrdc.net/m2/hsbcbankhase/mbox/ajax?$domain=hangseng.com^
 @@||paypalobjects.com/pa/js/min/pa.js
 @@||paypalobjects.com/tagmgmt/bootstrap.js
-@@||pingjs.qq.com^$~third-party
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn^
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com^
