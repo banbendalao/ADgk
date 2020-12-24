@@ -1,6 +1,19 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||shuqistat.com^
+||shuqireader.com/*/ad^
+||px.effirst.com^
+||ce3e75d5.jpush.cn^
+||xwuad.com^
+||sljkj.com^
+||mgc-games.com^
+||fcapi.jpush.cn^
+||hzbxm.com^
+||1look.tv^
+||1lan.tv^
+||yladm.com^
+||logs.upnono.com^
 ||diyibanzhu*/js/cdn.js
 ||epukult.cn^
 ||aodepuo.cn^
@@ -215,7 +228,6 @@ vikacg.com$$a[onclick="trackOutboundLink"]
 ||api.coolapk.com/v6/search?$replace=/hotSearch//
 ||api.coolapk.com/v6/feed/detail?$replace=/entities//
 ||tracker*.qcloud.com^
-||*p2p*douyucdn.cn^
 /1.gif^
 /js/20X4.js
 /js/fumeiti.js
