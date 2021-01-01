@@ -28,10 +28,10 @@ baidu.com##.welcome-banner
 baidu.com##.j_footer
 baidu.com###tab_news_1
 baidu.com##div.wa-guanfanghao-main
-baidu.com$$article[rl-link-data-sf-href="/sf/vsearch?pd"]
-baidu.com$$article[rl-link-data-sf-href="/sf?pd"]
+baidu.com$$div[data-log="/sf/vsearch?pd"]
+baidu.com$$div[data-log="/sf?pd"]
 baidu.com$$article[rl-link-data-url="baijiahao"]
-baidu.com$$article[rl-link-data-sf-href="/sf?openapi"]
+baidu.com$$div[data-log="/sf?openapi"]
 baidu.com$$div[tpl="recommend_list"]
 baidu.com$$div[tpl="sigma_celebrity_rela"]
 baidu.com$$div[tpl="sd_imgs"]
