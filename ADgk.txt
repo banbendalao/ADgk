@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://adgk.net
 ! by:酷安@坂本dalao
+||tiantiansoft.com^
+||mozuoshop.net^
 ||vfiles.gtimg.cn/pub/video_float_ad_config.config_list^
 ||tdid.m.qq.com^
 ||pingmid.qq.com^
@@ -8437,7 +8439,6 @@ _showad*
 ||aibici.com^
 ||alidongxi.com^
 ||allxing.net^
-||anquan.org
 ||baihuiad.com^
 ||baiwv.com^
 ||bjlmok.com^
