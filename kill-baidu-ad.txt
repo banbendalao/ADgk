@@ -28,10 +28,10 @@ baidu.com##.welcome-banner
 baidu.com##.j_footer
 baidu.com###tab_news_1
 baidu.com##div.wa-guanfanghao-main
-baidu.com$$div[mu="/sf/vsearch?pd"]
-baidu.com$$div[mu="/sf?pd"]
-baidu.com$$div[mu="baijiahao"]
-baidu.com$$div[mu="/sf?openapi"]
+baidu.com$$div[data-log="/sf/vsearch?pd"]
+baidu.com$$div[data-log="/sf?pd"]
+baidu.com$$div[data-log="baijiahao"]
+baidu.com$$div[data-log="/sf?openapi"]
 baidu.com$$div[tpl="recommend_list"]
 baidu.com$$div[tpl="sigma_celebrity_rela"]
 baidu.com$$div[tpl="sd_imgs"]
@@ -64,5 +64,5 @@ baidu.com$$div[tpl="comic"]
 baidu.com$$div[tpl="yl_"]
 baidu.com$$div[tpl="med_"]
 baidu.com$$div[tpl="wz_movielist"]
-baidu.com$$div[mu="openapi"]
+baidu.com$$div[data-log="openapi"]
 baidu.com$$div[tpl="pc-education-fs"]
