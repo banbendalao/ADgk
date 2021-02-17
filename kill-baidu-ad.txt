@@ -78,6 +78,8 @@ baidu.com$$div[data-log="machbbs.com"]
 baidu.com$$div[data-log="hostloc.net"]
 baidu.com$$div[data-log="vpsyh.com"]
 baidu.com$$div[data-log="haoxiangta.com"]
+baidu.com$$div[data-log="icode9.com"]
+baidu.com$$div[data-log="mamicode.com"]
 ! -- 大量无意义采集内容 -- END
 ! -- 恶意SEO -- START
 baidu.com$$div[data-log="cloud.tencent.com/developer/information/"]
