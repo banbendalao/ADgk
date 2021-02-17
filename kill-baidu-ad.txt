@@ -66,3 +66,26 @@ baidu.com$$div[tpl="med_"]
 baidu.com$$div[tpl="wz_movielist"]
 baidu.com$$div[data-log="openapi"]
 baidu.com$$div[tpl="pc-education-fs"]
+! -- 百度搜索结果垃圾站过滤
+! -- 大量无意义采集内容 -- START
+baidu.com$$div[data-log="kxxzz.com/mgvps/"]
+baidu.com$$div[data-log="zhujicankao.com"]
+baidu.com$$div[data-log="yiyult.com"]
+baidu.com$$div[data-log="367783.net/zatan/"]
+baidu.com$$div[data-log="vpsqb.com"]
+baidu.com$$div[data-log="dazhuanlan.com"]
+baidu.com$$div[data-log="machbbs.com"]
+baidu.com$$div[data-log="hostloc.net"]
+baidu.com$$div[data-log="vpsyh.com"]
+baidu.com$$div[data-log="haoxiangta.com"]
+! -- 大量无意义采集内容 -- END
+! -- 恶意SEO -- START
+baidu.com$$div[data-log="cloud.tencent.com/developer/information/"]
+baidu.com$$div[data-log="fyddz.com.cn"]
+baidu.com$$div[data-log="boce.com/hijack/"]
+baidu.com$$div[data-log="boce.com/wall/"]
+baidu.com$$div[data-log="boce.com/http/"]
+baidu.com$$div[data-log="boce.com/ping/"]
+baidu.com$$div[data-log="boce.com/dns/"]
+baidu.com$$div[data-log="site.ip138.com"]
+! -- 恶意SEO -- END
