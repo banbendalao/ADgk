@@ -90,4 +90,6 @@ baidu.com$$div[data-log="boce.com/http/"]
 baidu.com$$div[data-log="boce.com/ping/"]
 baidu.com$$div[data-log="boce.com/dns/"]
 baidu.com$$div[data-log="site.ip138.com"]
+baidu.com$$div[data-log="jiagongchang.com"]
+baidu.com$$div[data-log="huaweicloud.com/theme/"]
 ! -- 恶意SEO -- END
