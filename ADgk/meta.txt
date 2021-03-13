@@ -1,0 +1,6 @@
+! Title: Adgk手机去广告规则
+! Homepage: https://adgk.net
+! by:酷安@坂本dalao
+！本规则为开源规则，严禁用于任何商业用途
+！开源项目地址：https://m.gitee.com/banbendalao/adguard
+！规则反馈群：875865300
