@@ -4030,7 +4030,6 @@
 ||qq.com/tbs/tbsAd/
 ||qq.com/tencentvideo_v1/script/module/propeffect/prop.effect.
 ||qq.com/vfpage/visual_focus_page.
-||qq.com^*.ts?$rewrite=abp-resource:blank-js,xmlhttprequest,domain=qq.com^
 ||qq24h.com^$domain=bejson.com^
 ||qq260.com/shout.js
 ||qq745.com/m/ad/
@@ -4812,7 +4811,7 @@
 ||v4.cc/m/common.js
 ||v8gay.com/apps/misc.php?action=advert&
 ||vali-g1.cp31.ott.cibntv.net*.mp4
-||vali.cp31.ott.cibntv.net^$media,mp4
+||vali.cp31.ott.cibntv.net/*.mp4
 ||vansky.com/agdg/homegg/
 ||vansky.com/agdg/infoRight/
 ||vansky.com/agdg/middle/
