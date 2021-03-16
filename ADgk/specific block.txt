@@ -4,6 +4,10 @@
 -ttcdn-tos.pstatp.com/obj^
 /huya/main/widget/roomGg
 /huya_promotion_content_
+||yuetutu.com/mbook_js/common.js
+||biquge66.com/bcc.php
+||biquge66.com/js/chapter.js
+||shoudashu.com/js/kaixin.js
 ||*.com*.z*.glb.qiniucdn.com/tdata*
 ||*.feipukeplus.com^$domain=m.qqm4.com^
 ||*.legou*.com/images/*.gif$domain=lsj.tt-hk.cn^
