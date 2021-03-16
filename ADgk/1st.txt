@@ -10,13 +10,6 @@ wjyhao.com^
 wxsnsdy.tc.qq.com^
 wxsnsdy.video.qq.com^
 zhn.cynouk.cn^
-||linkjingkeji.com^
-||haomaiweb.com^
-||xcmz999.com^
-||longchengtg.com^
-||tianwenhu.com^
-||xinqiannv.com^
-||bigcooe.xyz^
 |balmoralmkt.com^
 |https://4o.cc^
 ||00-gov.cn^
@@ -1724,6 +1717,7 @@ zhn.cynouk.cn^
 ||biddingx.com^
 ||bidvertiser.com^
 ||bigbos.top^
+||bigcooe.xyz^
 ||bihutg.com^
 ||billionfocus.com^
 ||bima.weathercn.com^
@@ -3254,6 +3248,7 @@ zhn.cynouk.cn^
 ||haohaowan8.com^
 ||haohuo.snssdk.com^
 ||haolew.com^
+||haomaiweb.com^
 ||haoniuo.com^
 ||haoxianyangrouye.com^
 ||hapic1.zhuangxiu22.com^
@@ -4294,6 +4289,7 @@ zhn.cynouk.cn^
 ||linglong001.com^
 ||linjiajia.cn^
 ||linkbide.com^
+||linkjingkeji.com^
 ||linkpage.cn^
 ||links.panr.com^
 ||linktech.cn^
@@ -4378,6 +4374,7 @@ zhn.cynouk.cn^
 ||lolvsdota.cn^
 ||long8590.com^
 ||long88.app^
+||longchengtg.com^
 ||longdehua.com^
 ||longkoupeanut.cn^
 ||lopostone.com^
@@ -6068,6 +6065,7 @@ zhn.cynouk.cn^
 ||tianshu-x.gtimg.cn^
 ||tiantianedu.net^
 ||tiantiansoft.com^
+||tianwenhu.com^
 ||tianxiazhenji.com^
 ||tianyanzs.com^
 ||tiaopimiao.net^
@@ -6772,6 +6770,7 @@ zhn.cynouk.cn^
 ||xcggpt.com^
 ||xchgx.com^
 ||xcjy876.com^
+||xcmz999.com^
 ||xcqdw.pw^
 ||xcsaz.com^
 ||xcxzxc.cn^
@@ -6847,6 +6846,7 @@ zhn.cynouk.cn^
 ||xinju.cc^
 ||xinkuaiyu.com^
 ||xinleka.com^
+||xinqiannv.com^
 ||xinray.com^
 ||xinterface.cn^
 ||xintianxia.cc

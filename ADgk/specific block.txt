@@ -4,10 +4,6 @@
 -ttcdn-tos.pstatp.com/obj^
 /huya/main/widget/roomGg
 /huya_promotion_content_
-||yuetutu.com/mbook_js/common.js
-||biquge66.com/bcc.php
-||biquge66.com/js/chapter.js
-||shoudashu.com/js/kaixin.js
 ||*.com*.z*.glb.qiniucdn.com/tdata*
 ||*.feipukeplus.com^$domain=m.qqm4.com^
 ||*.legou*.com/images/*.gif$domain=lsj.tt-hk.cn^
@@ -1365,6 +1361,8 @@
 ||biquge.tw/api/
 ||biquge.tw/xtws/true.js
 ||biquge001.com/h5/wap.js
+||biquge66.com/bcc.php
+||biquge66.com/js/chapter.js
 ||biquguan.com/guan/
 ||biquw.com/6DAz2dRZ
 ||bitanzi.cn/xiwang/fumeiti.js
@@ -4271,6 +4269,7 @@
 ||shicimingju.com/scmjddd/
 ||shihuo.cn/alibtn_
 ||shiyanlou.com/img/shiyanlou-
+||shoudashu.com/js/kaixin.js
 ||shoudian.org/diantong/laoma
 ||shouji.com.cn/static/v2/images/sj_banner_
 ||shouyoutan.com/Runtime/js/$script
@@ -5364,6 +5363,7 @@
 ||yszxwang.com/js/tc/zhtc.
 ||ytbbs.com/images/index/
 ||yuesp.com/js/viu/
+||yuetutu.com/mbook_js/common.js
 ||yueyuyy.com:350/images/pc-tongzhi.js
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
