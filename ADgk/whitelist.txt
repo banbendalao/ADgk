@@ -376,8 +376,6 @@
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||digiland.tw/advert.js
 @@||dilidili.one^$generichide
-@@||disqus.com^$script,domain=wnacg.com^
-@@||disquscdn.com^$script,domain=wnacg.com^
 @@||dizhi99.com^$generichide
 @@||dlkoo.cc/down/*/*.htm$popup
 @@||dlkoo.cc/down/Copydown1
