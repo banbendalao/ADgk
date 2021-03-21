@@ -6383,7 +6383,6 @@ play.baidu.com###m-client-product,#right-ads,div.rightAd-skin,.top-banner-ad-wra
 ||tudown.com/
 ||click.taobao.com/$third-party,popunder
 ||tk001.com/$third-party
-*_union$script,subdocument,domain=~bitauto.com|~qq.com|~sf-express.com^
 ||uyan.cc/$third-party
 ||u26u.com/$third-party,~font,popup
 ||uum6.com/$third-party,~font,popup
