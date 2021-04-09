@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+game.eroge.xyz$$a[onclick="trackOutboundLink"]
+||toospk.com^
 ||r.inews.qq.com/getQQNewsUnreadList?$replace=/adList//
 ||r.inews.qq.com/getQQNewsRemoteConfigAndroid?
 ||r.inews.qq.com/getSysPublishConfigAndroid?
