@@ -1,6 +1,7 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+baidu.com##div.FYB_RD
 ||xgxq518.com^
 ||suning.beer^
 ||govshenzhen.cn^
@@ -7164,7 +7165,6 @@ _adv&
 /flash/swflash.
 /coop.
 ||swf?noCache=
-/click?id=
 /videoAd.
 /blog/*.php?z=
 /adscp*
