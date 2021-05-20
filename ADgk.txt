@@ -1,6 +1,12 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||iface2.iqiyi.com/views_pop/3.0^
+||iface2.iqiyi.com/control/3.0^
+||msg-intl.qy.net^
+||intl.iqiyi.com/control/feature_switch?
+||api16-access-sg.pangle.io/api/ad^
+||ibytedtos.com/obj/ad-pattern-sg^
 ||api.blibili.com/x/pd-proxy/tracker
 /ads/*.js^
 ||xn--3bs795g.chat^
