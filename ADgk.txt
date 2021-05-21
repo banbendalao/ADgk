@@ -1,6 +1,8 @@
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||wqxp.online/qx6/php/qqcheck.php
+||v.weixiaov.club/qx6/php/check.php
 ||iface2.iqiyi.com/views_pop/3.0^
 ||iface2.iqiyi.com/control/3.0^
 ||msg-intl.qy.net^
@@ -8646,7 +8648,6 @@ r1eadS= null;
 ||la61d.cn^
 ||m.helloworld2018.top^
 ||lftxali.fancyapi.com^
-||kingsoft.com^
 ||vzuu.com/SD/*adbidding&
 ^adreaper^
 ||cp81.ott.cibntv.net^
@@ -9074,7 +9075,6 @@ wuhaozhan.net$$div[class="item-box"]
 ||cnwav.com^
 ||api.coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||moapi.wps.cn/onlineparam/onlineParamByVersion
-||cloudservice22.kingsoft-office-service.com^
 ||moapi.wps.cn/api/ad^
 ||account.wps.cn^$replace=/"has_ad": 1/"has_ad": 0/
 ||pan.baidu.com/act/api/activityentry?
