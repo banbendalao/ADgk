@@ -7200,9 +7200,6 @@ $$a[href="changhong886.com"]
 ||*/jd/a.ashx
 ||0o.868iy.cn^
 ||www.googletagmanager.com^
-/js/index/list.js
-/js/index/index.js
-/js/index/footer.js
 gitee.com,www.gitee.com,m.gitee.com$@$div[class="-ad"]
 ://js.static.*ping*
 ://js.static.*/share/*.js$third-party
