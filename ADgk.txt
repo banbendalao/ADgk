@@ -290,7 +290,6 @@ bde4.cc##div:last-child > a:last-child > img
 ||mapi.m.jd.com/ksdk/updlist.json^
 ||log.mmstat.com^
 ||cms-image.cdn.bcebos.com^
-||c.tieba.baidu.com/c/s^
 ||log.tpns.tencent.com^
 ||log.tbs.qq.com^
 ||tsis.jpush.cn^
