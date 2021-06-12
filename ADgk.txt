@@ -474,7 +474,6 @@ vikacg.com$$a[onclick="trackOutboundLink"]
 ||umsns.com^
 /ad_video_report
 /video_ad_iframe
-||api.coolapk.com/v6/feed/detail?$replace=/entities//
 ||tracker*.qcloud.com^
 /1.gif^
 /js/20X4.js
