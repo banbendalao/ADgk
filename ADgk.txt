@@ -140,7 +140,6 @@ tieba.baidu.com##.banner-wrapper
 ||m-vali.cp31.ott.cibntv.net*.mp4
 ||vali.cp31.ott.cibntv.net/*.mp4
 ||shuikan.xyz^
-||shuikan.xyz^
 ||tv.ytbctyy.com^
 ||kanwby.com^
 ||hellocdn.top^
@@ -8126,7 +8125,6 @@ zhn.cynouk.cn^
 /youku.js$third-party
 $domain=m.fengyunok.com,third-party
 ||file.market.xiaomi.com/download/AppStore/
-/js/qiguo.js
 ||res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/page_mp_vote_new
 ||nubao.lsdys.cn^
 ||a6s.hn985.com^
@@ -8965,7 +8963,6 @@ zhidao.baidu.com$$div[class="doodle-container"]
 ||hmwebs.top^
 ||66s.cc/11.js
 ||rijutv.com/statics/comment/embed.js
-||rijutv.com/statics/ajs/alltj.js
 ||rijutv.com/statics/alljs^
 ||haoqu.net/d^
 ||k8jdwang.com/js/wap_max/wapneiqian.js
@@ -9056,7 +9053,6 @@ wuhaozhan.net$$div[class="item-box"]
 ||qutyan8848.com^
 ||8c3k.cn^
 ||liufenghua.com^
-/js/xxchapter.js
 ||adgomob.com^
 ||lcvfar.com^
 ||orbit.jd.com^
