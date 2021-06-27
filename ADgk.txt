@@ -1,7 +1,8 @@
-! Version: 20210627022038
+! Version: 20210627141511
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||api.coolapk.com/v6/feed/detail?$replace=/hotSponsorCard//
 t66y.com$$script[tag-content="r9aeadS"]
 ||to.redircdn.com/web/post.js
 ||api.afdback.ppsimg.com^
