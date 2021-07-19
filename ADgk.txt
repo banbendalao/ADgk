@@ -1,7 +1,9 @@
-! Version: 20210719084254
+! Version: 20210719233919
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||innvitor.com^
+||40fenzhong.com^
 ||jewelryedu.cn^
 ||lwmbc.cn^
 ||ackcdn.net^
@@ -8756,7 +8758,6 @@ r1eadS= null;
 ||cp81.ott.cibntv.net^
 ||tracking.miui.com^
 ||video.market.xiaomi.com^
-||adash.man.aliyuncs.com^
 avtb579.com###content > div.col-xs.col-sm-12.col-md-10:last-child > div.panel.panel-default:nth-child(2) > div.panel-body.panel-padding:last-child > a:first-child
 bve8.xyz##div.main:nth-child(3) > div:first-child
 ###portal_block_40_content
@@ -9143,7 +9144,6 @@ wuhaozhan.net$$div[class="item-box"]
 ||wmflabs.org^
 ||toblog.snssdk.com^
 ||ctobsnssdk.com^
-||cgi.connect.qq.com^
 ||lflucky.com^
 ||seefarger.com^
 ||zhangxinzhixun.com^
