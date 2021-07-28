@@ -1,7 +1,8 @@
-! Version: 20210723132144
+! Version: 20210728195119
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||bmjjs.xzw.com^
 ||euler7.club^
 ||abovede6.com^
 ||advancepak.com^
