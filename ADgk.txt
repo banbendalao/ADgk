@@ -1,12 +1,17 @@
-! Version: 20210921235516
+! Version: 20210922001522
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+||coolapk.com/v6/feed/detail?$replace=/include_goods//
+||coolapk.com/v6/feed/detail?$replace=/hotSponsorCard//
+||coolapk.com/v6/feed/detail^$replace=/hotSponsorCard//
+||coolapk.com/v6/feed/detail^$replace=/detailSponsorCard//
 ||liangcang-material.alicdn.com^
 ||zzhengyuli.com^
 ||gaomingbo.com^
 ||mangabz.com/wxh_asy.js
 ||event.toggle.qq.com^
+||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||pianku.li/ajax/matomo
 ||govchengdu.cn^
 ||govxian.cn^
@@ -169,7 +174,6 @@ rarbt.cc##div[class="cl"]
 ||yidianzixun.com/home/q/get_activity_girls_progress
 ||web-track.go2yd.com^
 ||si1.go2yd.com^
-||api.coolapk.com/v6/feed/detail?$replace=/hotSponsorCard//
 t66y.com$$script[tag-content="r9aeadS"]
 ||to.redircdn.com/web/post.js
 ||api.afdback.ppsimg.com^
@@ -181,8 +185,6 @@ t66y.com$$script[tag-content="r9aeadS"]
 ||lc-cn-n1-shared.com^
 ||daa.shuzilm.cn^
 ||sdk.api.bjshcw.com^
-||api2.coolapk.com/v6/feed/detail^$replace=/hotSponsorCard//
-||api2.coolapk.com/v6/feed/detail^$replace=/detailSponsorCard//
 ||pinlue.com/style/js/common.js
 ||top2099.com^
 qidian.com$$div[class="app-deversion normal-version"]
@@ -9277,7 +9279,6 @@ wuhaozhan.net$$div[class="item-box"]
 ||api.zhihu.com/people/self$replace=/\"vip_info\"/\"null_vip\"/
 ||api.zhihu.com/topstory/recommend*$replace=/\"slot_event_card\"/\"null_card\"/
 ||cnwav.com^
-||api.coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||moapi.wps.cn/onlineparam/onlineParamByVersion
 ||moapi.wps.cn/api/ad^
 ||account.wps.cn^$replace=/"has_ad": 1/"has_ad": 0/
