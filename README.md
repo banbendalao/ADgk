@@ -8,17 +8,9 @@
 
 `https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt` [一键订阅](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt&title=adgk手机去广告规则)
 
-主规则coding镜像
-
-`https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt` [一键订阅](https://subscribe.adblockplus.org/?location=https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt&title=adgk手机去广告规则)
-
 百度搜索结果内屏蔽百家号
 
 `https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt` [一键订阅](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt&title=百度搜索结果极限净化)
-
-百度搜索结果内屏蔽百家号coding镜像
-
-`https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/kill-baidu-ad.txt` [一键订阅](https://subscribe.adblockplus.org/?location=https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/kill-baidu-ad.txt&title=百度搜索结果极限净化)
 
 # 反馈交流群
 * QQ群①:875865300
