@@ -2,6 +2,7 @@
 * 适用于 AdGuard for Android 的去广告规则（**不保证在其他软件使用的效果**）
 * 去除大部分软件的开屏广告
 * 拦截大部分广告联盟的广告
+* 现作为[easylistchina](https://github.com/easylist/easylistchina)的补充规则存在,建议同时订阅[easylistchina](https://github.com/easylist/easylistchina)规则
 
 # 订阅地址
 主规则订阅地址
