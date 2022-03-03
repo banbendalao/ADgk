@@ -1,8 +1,8 @@
-! Version: 20220304000615
+!#include https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
+! Version: 20220304000812
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
-!#include https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 ||kingsoft-office-service.com/ad?
 ||adres.wpscdn.cn^
 ||c.sm.cn^
