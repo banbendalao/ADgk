@@ -13,6 +13,18 @@
 
 `https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt` [一键订阅](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt&title=百度搜索结果极限净化)
 
+## 镜像地址
+
+> 以下镜像地址均由网友提供，本项目不能确保其稳定性和及时性
+
+主规则镜像
+
+`https://raw.iqiq.io/banbendalao/ADgk/master/ADgk.txt`
+
+百度搜索结果内屏蔽百家号镜像
+
+`https://raw.iqiq.io/banbendalao/ADgk/master/kill-baidu-ad.txt`
+
 # 反馈交流群
 * QQ群①:875865300
 * QQ群②:723295076
