@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: 百度搜索结果极限净化
 ! Description: 效果过于强大，慎用
 ! Last Modified: 2019/1/29
