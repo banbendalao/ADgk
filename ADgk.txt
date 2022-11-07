@@ -1,8 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 20221107212647
+! Version: 20221107220210
 ! Title: adgk手机去广告规则
 ! Homepage: https://github.com/banbendalao/ADgk
 ! by: 坂本dalao
+dmhy.org###pkpk
+dmhy.org##div[id*="_ad"]
+tieba.baidu.com##div.fengchao-banner-defensive
+tieba.baidu.com##div.nav-bar-bottom
 vidhub.cc##div.player-info > div.module
 ||xlviirdr.com^
 ||xlviiirdr.com^
