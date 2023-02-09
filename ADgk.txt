@@ -5285,8 +5285,6 @@ play.baidu.com###m-client-product,#right-ads,div.rightAd-skin,.top-banner-ad-wra
 ||img.baidu.com/hunter/musicmonkey.min.js
 ||hiphotos.baidu.com/ting/pic/item/
 ||music.baidu.com/data/69xiu/
-||ad.
-*/ad.
 */adbox/
 */ads.
 */adload.
