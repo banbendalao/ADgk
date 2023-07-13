@@ -1,0 +1,27 @@
+name: 定时下载和处理ADgk.txt
+
+on:
+  schedule:
+    - cron: "0 0 */15 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout代码库
+        uses: actions/checkout@v2
+
+      - name: 下载ADgk.txt
+        run: curl -o ADgk.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+
+      - name: 处理ADgk.txt
+        run: sed -i '/^.\{1024,\}/d' ADgk.txt
+      
+      - name: 提交文件变更
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ADgk.txt
+          git commit -m "Update ADgk.txt"
+          git push
